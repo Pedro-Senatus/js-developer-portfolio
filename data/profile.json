@@ -1,6 +1,7 @@
 {
   "name": "Pedro Henrique F Santos",
   "photo": "https://avatars.githubusercontent.com/u/127903586?v=4",
+  "job": "Cursando Análise e Desenvolvimento de Sistemas",
   "location": "João Pessoa - PB",
   "phone": "(83) 98651-7756",
   "email": "pedrofigo123@gmail.com",
@@ -59,7 +60,7 @@
     {
       "name": "Fábrica de Software",
       "period": "25/03/2024 - 25/06/2024",
-      "description": "Projeto voluntário que me deu a oportunidade de trabalhar em projetos reais para a PM e para os cursos de EFERMAGEM da Cruzeiro do Sul"
+      "description": "Projeto voluntário que me deu a oportunidade de trabalhar em projetos reais para a PM e para os cursos de Enfermagem da Cruzeiro do Sul como Front-End"
     }
   ]
 }
